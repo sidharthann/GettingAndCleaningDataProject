@@ -1,1 +1,8 @@
-# GettingAndCleaningDataProject
+# Getting and Cleaning Data - Course Project
+
+##Instructions for running the code
+R version 3.3.1
+Required packages
+* readr - 1.0.0
+* dplyr - 0.5.0
+* tidyr - 0.6.0
