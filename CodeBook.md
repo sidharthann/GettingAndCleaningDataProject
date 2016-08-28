@@ -43,4 +43,4 @@ UCI HAR Dataset/train/y_train.txt |activity for each training record - 7352|1
 2. activity - varchar() - One of 6 possible activity labels
 3. feature - varchar() - One of 33 possible features
 4. avg_mean - double - Average of feature value means across all measurements 
-5. 4. avg_mean - double - Average of feature value standard deviations across all measurements 
+5. avg_mean - double - Average of feature value standard deviations across all measurements 
